@@ -1,3 +1,10 @@
+# Hey! I am Casually Normal!
+I am a literature graduate.
+
+# What I do 
+I read a lot and I write a lot
+
+
 - 👋 Hi, I’m @CasuallyNormal
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
